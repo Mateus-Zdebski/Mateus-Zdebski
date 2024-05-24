@@ -1,6 +1,8 @@
 ## Oi! Eu sou o Mateus Zdebski, e aqui está um pouco sobre mim:
 
-Sou um entusiasta da programação, apaixonado por aprender novas tecnologias e desenvolver projetos interessantes. Abaixo estão algumas das linguagens e tecnologias com as quais trabalho:
+Sou Mateus Zdebski formado em técnico desenvolvimento de sistemas no Senai sul Joinville, SC. Apesar de
+ainda não ter experiência profissional formal, me considero um profissional dedicado e
+proativo, sempre buscando aprender e me desenvolver. Algumas liguagens que programo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -16,6 +18,6 @@ Sou um entusiasta da programação, apaixonado por aprender novas tecnologias e 
 ##
 
 <div> 
-  <a href="https://instagram.com/[seu perfil no Instagram]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/[seu perfil no LinkedIn]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/mateuszdebski02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-zdebski-623335288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
