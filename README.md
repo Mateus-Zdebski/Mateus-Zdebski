@@ -2,7 +2,7 @@
 
 Sou Mateus Zdebski formado em técnico desenvolvimento de sistemas no Senai sul Joinville, SC. Apesar de
 ainda não ter experiência profissional formal, me considero um profissional dedicado e
-proativo, sempre buscando aprender e me desenvolver. Algumas liguagens que programo:
+proativo, sempre buscando aprender e me desenvolver. Algumas linguagens que programo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -16,6 +16,13 @@ proativo, sempre buscando aprender e me desenvolver. Algumas liguagens que progr
 </div>
   
 ##
+
+<!-- Adicione o link do seu gráfico de linguagens de programação fornecido pelo GitHub Readme Stats aqui -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mago123456677
+&layout=compact" alt="Gráfico de Linguagens de Programação" />
+
+<!-- Adicione o link do seu gráfico de total de projetos fornecido pelo GitHub Readme Stats aqui -->
+<img src="https://github-readme-stats.vercel.app/api?username=seu_usuario_github&show_icons=true&theme=radical" alt="Gráfico de Total de Projetos" />
 
 <div> 
   <a href="https://www.instagram.com/mateuszdebski02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
