@@ -19,7 +19,6 @@ proativo, sempre buscando aprender e me desenvolver. Algumas linguagens que prog
 
 <!-- Adicione o link do seu gráfico de linguagens de programação fornecido pelo GitHub Readme Stats aqui -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mago123456677&layout=compact" alt="Gráfico de Linguagens de Programação" />
-
 <!-- Adicione o link do seu gráfico de total de projetos fornecido pelo GitHub Readme Stats aqui -->
 <img src="https://github-readme-stats.vercel.app/api?username=mago123456677&show_icons=true&theme=radical" alt="Gráfico de Total de Projetos" />
 
