@@ -33,6 +33,7 @@ proativo, sempre buscando aprender e me desenvolver. Algumas linguagens que prog
 
 ##
 
+Ides que eu trabalho
 <div style="display: inline_block"><br>
   <img align="center" alt="NetBeans" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
