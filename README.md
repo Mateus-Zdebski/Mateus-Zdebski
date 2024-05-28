@@ -19,11 +19,11 @@ proativo, sempre buscando aprender e me desenvolver. Algumas linguagens que prog
 
 <div style="display: inline-block; width: 50%;">
   <!-- Adicione o link do seu gráfico de linguagens de programação fornecido pelo GitHub Readme Stats aqui -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mago123456677&layout=compact" alt="Gráfico de Linguagens de Programação" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Zdebski&layout=compact" alt="Gráfico de Linguagens de Programação" />
 </div>
 <div style="display: inline-block; width: 50%;">
   <!-- Adicione o link do seu gráfico de total de projetos fornecido pelo GitHub Readme Stats aqui -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mago123456677&show_icons=true&theme=radical" alt="Gráfico de Total de Projetos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mateus-Zdebski&show_icons=true&theme=radical" alt="Gráfico de Total de Projetos" />
 </div>
 
 <div> 
