@@ -44,5 +44,3 @@
 </div>
 
 ---
-
-Essa versão melhora a clareza, organização e a estética do seu README. O que acha? 😊🚀
